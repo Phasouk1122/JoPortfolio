@@ -2,7 +2,7 @@
     <div class="row align-items-center">
         <div class = "col-3">
             <img src="/images/IMG_8077.JPG" width="300" height="400"/>
-            
+    
         </div>
         <div class="col-6" >
             <div>
